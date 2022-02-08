@@ -20,7 +20,7 @@ Anyone can also contact me via
 | Skill | Technologies worked on | 
 |:--|:------------|
 | Programming | Python, C++ , Java |
-| DataBase | SQL, MongoDb, Cassandra |
+| DataBase | SQL, MongoDB, Cassandra |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook, Colab |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
