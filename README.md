@@ -1,6 +1,6 @@
 <img src = "https://user-images.githubusercontent.com/55132850/153031970-d40656cb-f008-4f9e-8348-001df26eff86.jpg" height = 350 width = 100%><img>
 
-# Greetings Respected viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
+# Greetings Respected Viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px">
 
 This is ***Ashish Kumar*** and I am a ***Data Science*** enthusiast and freelancer ***Research Assistant*** at UCL, NTUT, Taiwan . I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards becoming a ***Full-Stack Data Scientist***. I live in Delhi, India.
 
