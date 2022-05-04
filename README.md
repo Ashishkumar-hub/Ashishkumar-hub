@@ -41,7 +41,9 @@ Anyone can also contact me via
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 
 For More Details refer my resume <a href = "https://www.linkedin.com/in/ashish-kumar-5395b2168/">click here for resume</a>
-  
+
+![](https://komarev.com/ghpvc/?username=Ashishkumar-hub&color=blue)
+
   ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Ashishkumar-hub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkumar-hub&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  height = 300 width="40%"/>
