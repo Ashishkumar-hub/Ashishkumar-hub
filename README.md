@@ -40,7 +40,7 @@ Anyone can also contact me via
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, VGG, Resnet|
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 
-For More Details refer my resume <a href = "https://www.linkedin.com/in/ashish-kumar-5395b2168/">click here for resume</a>
+For More Details refer my resume in featured section <a href = "https://www.linkedin.com/in/ashish-kumar-5395b2168/">click here for resume</a>
 
 ![](https://komarev.com/ghpvc/?username=Ashishkumar-hub&color=blue)
 
