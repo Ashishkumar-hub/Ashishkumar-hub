@@ -14,7 +14,11 @@ This is ***Ashish Kumar*** and I am a ***Data Science*** enthusiast and currentl
 - ⚡ Fun fact: Yes i still watch anime and play games.
 
 Anyone can also contact me via 
-&nbsp;<img src = "https://user-images.githubusercontent.com/55132850/153030729-99483999-acdb-45d8-9c01-9d817c8fd7a8.png" width = 20><img> : singh.ashish.kr96@gmail.com
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-kumar-5395b2168/)](https://www.linkedin.com/in/ashish-kumar-5395b2168/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singh.ashish.kr96@gmail.com)](mailto:singh.ashish.kr96@gmail.com)
+[![Download CV Profile Eglish](https://img.shields.io/badge/Download-CV%20Profile-blue)](https://www.linkedin.com/in/ashish-kumar-5395b2168/overlay/1635488847287/single-media-viewer/?type=DOCUMENT&profileId=ACoAACf0h30B4Qk4DwRPM5jKTMgKjYmmZj0TRxg)
+![GitHub followers](https://img.shields.io/github/followers/Ashishkumar-hub?label=Follow&style=social)
 
 ## :wrench: Job Responsiblities
 
