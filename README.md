@@ -7,7 +7,7 @@ This is ***Ashish Kumar*** and I am a ***Data Science*** enthusiast and currentl
 
 ***Insight's about me:*** 
 
-- 🔭 I’m currently working on a Medical project.  
+- 🔭 I’m currently working on a CMS.  
 - 🌱 I’m currently always learning and exploring new stuff .
 - 👯 Always upto collaborating on ML/DL related projects.
 - 💬 Ask me about anything on AIOT/Travelling/Techie Stuff.
