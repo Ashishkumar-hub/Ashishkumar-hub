@@ -25,6 +25,7 @@ Anyone can also contact me via
 | Skill | Technologies worked on | 
 |:--|:------------|
 | Programming | Python, C++ , Java |
+| Web Framework | Flask, Django |
 | DataBase | SQL, MongoDB, Cassandra |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook, Colab |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
