@@ -3,7 +3,7 @@
 
 # Greetings Respected Viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px" height="30px">
 
-This is ***Ashish Kumar*** and I am a ***Data Science*** enthusiast and currently working as an ***AI/ML Developer*** at Drifly Technologies Pvt. Ltd., Gurugram, India. Formerly I have worked as an ***Research Assistant*** at UCL, NTUT, Taiwan . I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing*** and I am extending myself towards becoming a ***Senior Data Scientist***. I am currently living in Delhi, India.
+This is ***Ashish Kumar*** and I am a ***Data Science*** enthusiast and currently working as an ***SE II*** at TripzyGo, Gurugram, India. Formerly I have worked as an ***Research Assistant*** at UCL, NTUT, Taiwan . I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Full Stack Development***. I am currently living in Delhi, India.
 
 ***Insight's about me:*** 
 
