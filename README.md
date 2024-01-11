@@ -3,11 +3,17 @@
 
 # Greetings Respected Viewers <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px" height="30px">
 
-This is ***Ashish Kumar*** and I am a ***Data Science*** enthusiast and currently working as an ***SE II*** at TripzyGo, Gurugram, India. Formerly I have worked as an ***Research Assistant*** at UCL, NTUT, Taiwan . I have insights into ***Machine Learning, Deep Learning, Computer Vision, and Full Stack Development***. I am currently living in Delhi, India.
+I am a highly motivated and enthusiastic ***Software Developer*** with 4+ years of experience in the field. My passion for technology and programming has driven me to excel in my professional career and constantly seek new challenges and opportunities for growth.
+
+I have honed my skills in a variety of programming languages and technologies. My experience has allowed me to work on a range of projects, from developing new software applications to enhancing and maintaining existing systems.
+
+My academic background is a testament to my dedication and drive. I was awarded a scholarship to attend ***National Taipei University of Technology (NTUT) in Taiwan***, where I earned a ***Master of Science degree in Computer Science***. This unique educational experience allowed me to expand my knowledge and perspectives, and gave me the opportunity to collaborate with talented students and professionals from around the world.
+
+I am always seeking new challenges and opportunities to continue growing as a software developer. I am confident in my ability to work effectively as a team member or independently, and I am committed to delivering high-quality work that meets the needs of my clients and exceeds their expectations.
 
 ***Insight's about me:*** 
 
-- 🔭 I’m currently working on a CMS and medical project.  
+- 🔭 I’m currently working on ERP and Supplier portal.  
 - 🌱 I’m currently always learning and exploring new stuff .
 - 👯 Always upto collaborating on ML/DL related projects.
 - 💬 Ask me about anything on AIOT/Travelling/Techie Stuff.
@@ -24,15 +30,15 @@ Anyone can also contact me via
 
 | Skill | Technologies worked on | 
 |:--|:------------|
-| Programming | Python, C++ , Java |
-| Web Framework | Flask, Django |
-| DataBase | SQL, MongoDB, Cassandra |
-| Tools/ IDE | PyCharm, VSCode, Jupyter Notebook, Colab |
+| Programming | Python, Next.js, Node.js |
+| Web Framework | Frappe, Flask, Django |
+| DataBase | MariaDB, MySQL, MongoDB |
+| Package/Software | VS Code, Anaconda, Tableau, Docker, Circle CI, Jupyter Notebook, Pycharm, Colaboratory, Google Dialog Flow, Matlab, Jira, Confluence, Clickup, Linear, Jam, Scribe |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks , Computer Vision, Transfer learning, Execution with Python |
 | Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
-| Cloud | Basic AWS, Basic Azure, Heroku  |
-| Operating System | Windows |
+| Cloud | AWS, Azure, Heroku, GCP |
+| Operating System | Windows, MacOs|
 | Hardware | Tesla T4 from google colab |
 | Version control | GIT |
 
